@@ -19,4 +19,14 @@ TODO
   1. All Module :-)
   2. 
 
+TECHNOLOGY
+----------
 
+  2. Arduino For Modem
+  3. RaspberryPi For Modem
+  4. Golang
+  5. Javascript
+  6. Google API
+  7. Android
+  8. iOS
+  9. Windows Phone?
